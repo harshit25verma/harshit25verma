@@ -5,12 +5,14 @@
 [![Website](https://img.shields.io/badge/⌘_Website-161b22?style=flat-square&color=161b22&labelColor=161b22)](https://harshit25verma.github.io)
 
 </div>
+
 <img width="1076" height="384" alt="image" src="https://github.com/user-attachments/assets/2202b929-718c-4153-b9db-e1812658fa96" />
 
 ---
 
 ```diff
   $ ls ./projects
+
 ```
 
 <div align="center">
@@ -31,15 +33,6 @@
 - [ROBOT]   C++/ROS robotic hand · 70% prototype · 45 days · team lead
 - [EVENTS]  2× hackathons · 40+ participants · end-to-end ownership
 ```
-
----
-
-<div align="center">
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=harshit25verma&show_icons=true&theme=github_dark&hide_border=true&title_color=4a7fa5&icon_color=4a7fa5&text_color=8b949e&bg_color=0d1117)](https://github.com/harshit25verma)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=harshit25verma&layout=compact&theme=github_dark&hide_border=true&title_color=4a7fa5&text_color=8b949e&bg_color=0d1117)](https://github.com/harshit25verma)
-
-</div>
 
 ---
 
