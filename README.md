@@ -1,67 +1,16 @@
-<table>
-<tr>
-<td width="40%" valign="middle">
-
-```
-          ::::::::::::::::::        
-        ::::::::::::::::::::::      
-      :::::::::::::::::::::::::     
-      :::;;;;;::;;;;;;;::;::::::    
-      :;;xxxxxxxxxxxxxxxxxxx;:::    
-      x;xxx+;;;;;xxx;;;;+xxxx;;x    
-      xxxxxxxxxxxxxxxxxxxxxxXxxxx   
-       xxxxxxxx+;+x+++x+xxxxxxxx    
-        xxxx+;;xxxXxxx++xxxxxxX     
-         xxxxxxxx+;;xxxxxxxXx       
-   ;+;;;::;;x;;;;;;;;;;;xxxx:;;     
-+++;;;;;;;:+xxx+;;;+xxxxxx;:;+;::   
-xxxxxxxxx+;;xxxxxxxxxxxx+::;+xx++   
-  ;;::;;;;;xxxxxxxxx++;;;;;x+xxx+   
-    ;;;;;;xxxxxxxxx+;::::;;;:       
-      ++x++;+;;xXXXXx+;;;;;;        
-```
-
 <div align="center">
 
-[![Email](https://img.shields.io/badge/_Email_-0d1117?style=flat-square&color=161b22)](mailto:harshit25verma@outlook.com)
-[![LinkedIn](https://img.shields.io/badge/_LinkedIn_-0d1117?style=flat-square&color=161b22)](https://linkedin.com/in/harshit25verma)
-[![Website](https://img.shields.io/badge/_Website_-0d1117?style=flat-square&color=161b22)](https://harshit25verma.github.io)
+[![Email](https://img.shields.io/badge/✉_Email-161b22?style=flat-square&color=161b22&labelColor=161b22)](mailto:harshit25verma@outlook.com)
+[![LinkedIn](https://img.shields.io/badge/in_LinkedIn-161b22?style=flat-square&color=161b22&labelColor=161b22)](https://linkedin.com/in/harshit25verma)
+[![Website](https://img.shields.io/badge/⌘_Website-161b22?style=flat-square&color=161b22&labelColor=161b22)](https://harshit25verma.github.io)
 
 </div>
-
-</td>
-<td width="60%" valign="middle">
-
-```yaml
-harshit@github ─────────────────────────
-  Role ......... Software Engineer
-  Uptime ....... 2+ yrs QA & Systems
-  Host ......... Lionbridge · Warsaw, PL
-  Degree ....... BSc Mechatronics · WUT
-
-  Lang.Code .... Python · JS · C++ · SQL
-  Lang.Real .... English · Hindi · Polish
-  Stack ........ Flask · ROS · REST · AWS
-  Tools ........ Git · Jira · TestRail
-
-  Certs ........ CS50x · GitHub Foundations
-  Interests .... Entrepreneurship · Chess
-               . Basketball · Calisthenics
-               . Racing
-  ─────────────────────────────────────
-  Currently .... Full-stack AI webapp
-  Seeking ...... SWE / Backend roles
-
-```
-
-</td>
-</tr>
-</table>
+<img width="1076" height="384" alt="image" src="https://github.com/user-attachments/assets/2202b929-718c-4153-b9db-e1812658fa96" />
 
 ---
 
-```
-$ ls ./projects
+```diff
+  $ ls ./projects
 ```
 
 <div align="center">
@@ -74,13 +23,13 @@ $ ls ./projects
 
 ---
 
-```
-$ cat ./highlights
+```diff
+  $ cat ./highlights
 
-  [DEV]     Full-stack AI webapp · Flask · SQL · JS · AWS · solo-built
-  [QA]      1,000+ bug reports · 50% faster regression · 30-person team
-  [ROBOT]   C++/ROS robotic hand · 70% prototype · 45 days · team lead
-  [EVENTS]  2× hackathons · 40+ participants · end-to-end ownership
+- [DEV]     Full-stack AI webapp · Flask · SQL · JS · AWS · solo-built
+- [QA]      1,000+ bug reports · 50% faster regression · 30-person team
+- [ROBOT]   C++/ROS robotic hand · 70% prototype · 45 days · team lead
+- [EVENTS]  2× hackathons · 40+ participants · end-to-end ownership
 ```
 
 ---
@@ -106,3 +55,5 @@ $ cat ./highlights
 ![ROS](https://img.shields.io/badge/ROS-161b22?style=flat-square&logo=ros&logoColor=8b949e)
 
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a3a5c,100:0d1117&height=80&section=footer" width="100%"/>
